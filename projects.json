@@ -1,0 +1,63 @@
+[
+    {
+        "Title": "Couch Cup",
+        "Description": "A Jackbox-style party game using mobile web clients connected via a real-time WebSocket relay server (Node.js). Features React interfaces, low-latency gameplay, robust session management with crash recovery and state sync. Cloud-hosted in containers, it includes AI-generated prompts, cloud TTS, persistent points, and in-app purchases, showcasing expertise in distributed systems and cloud infrastructure.",
+        "ImageURL": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3359160/header.jpg?t=1744223327",
+        "SiteURL": "https://store.steampowered.com/app/3359160/Couch_Cup/",
+        "YouTubeID": "WEiNLIirdCE",
+        "Tags": [
+            "React",
+            "Node.js",
+            "WebSockets",
+            "Game Development",
+            "Cloud",
+            "Real-time",
+            "AI",
+            "TTS"
+        ]
+    },
+    {
+        "Title": "CUDA FDTD Electromagnetic Field Solver",
+        "Description": "An FDTD electromagnetic wave propagation solver accelerated by NVIDIA CUDA for high-performance GPU computation. Features real-time visualization and dynamic interaction (adding pulses, materials) using OpenGL/GLUI. Built with C++, it integrates HPC with intuitive visualization for scientific simulations, supporting custom material properties.",
+        "ImageURL": "https://github.com/wtosborne03/em_field/raw/main/sim_screenshot.png?raw=true",
+        "GithubURL": "https://github.com/wtosborne03/em_field",
+        "Tags": [
+            "C++",
+            "CUDA",
+            "GPU",
+            "OpenGL",
+            "Scientific Computing",
+            "Simulation",
+            "HPC"
+        ]
+    },
+    {
+        "Title": "Django Job Board",
+        "Description": "A functional job board built with Django, featuring user accounts, job posting/application capabilities, and advanced search/filtering. Utilizes Django's ORM for efficient database management, demonstrating scalable web application development with user authentication and data handling.",
+        "ImageURL": "assets/job-board.png",
+        "SiteURL": "https://job-board-828m.onrender.com/",
+        "GithubURL": "https://github.com/wtosborne03/job-board",
+        "Tags": [
+            "Python",
+            "Django",
+            "Web Development",
+            "Database",
+            "ORM",
+            "Authentication"
+        ]
+    },
+    {
+        "Title": "Alzheimer's Classification Using Convolutional Neural Networks",
+        "Description": "Classifies Alzheimer's stages from MRI scans using both a custom CNN (grayscale) and a pre-trained MobileNetV2 (RGB) model via TensorFlow/Keras. Processes the \"ADNI 4-Class\" dataset, including image resizing and training visualization, demonstrating deep learning for medical image analysis.",
+        "GithubURL": "https://github.com/wtosborne03/Alzheimer-s-Classification-Using-Convolutional-Neural-Networks",
+        "ImageURL": "https://github.com/wtosborne03/Alzheimer-s-Classification-Using-Convolutional-Neural-Networks/blob/main/samples.png?raw=true",
+        "Tags": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "TensorFlow",
+            "Keras",
+            "Computer Vision"
+        ]
+    }
+]
